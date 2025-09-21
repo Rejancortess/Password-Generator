@@ -32,7 +32,6 @@ async function copyText(text) {
     await navigator.clipboard.writeText(text);
     alert('Copied: ' + text);
   } catch (err) {
-    // fallback
     const ta = document.createElement('textarea');
     ta.value = text;
     ta.style.position = 'fixed';
