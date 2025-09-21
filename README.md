@@ -1,1 +1,1 @@
-URL: https://safepasswordsx.netlify.app/
+URL:: https://safepasswordsx.netlify.app/
